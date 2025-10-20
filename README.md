@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jayzeedesign-awesome-claude-skills-badge.png)](https://mseep.ai/app/jayzeedesign-awesome-claude-skills)
+
 # NOTE: This is fork from anthropic official one, but start adding more
 
 # Skills
