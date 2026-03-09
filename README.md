@@ -111,3 +111,4 @@ The markdown content below contains the instructions, examples, and guidelines t
 Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
 
 - **Notion** - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)
+- **x-twitter-scraper** - [X/Twitter data skill](https://github.com/Xquik-dev/x-twitter-scraper) — MCP server, REST API, 20 extraction tools, account monitoring
