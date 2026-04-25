@@ -30,6 +30,7 @@ This repository includes a diverse collection of example skills demonstrating di
 ## Creative & Design
 - **algorithmic-art** - Create generative art using p5.js with seeded randomness, flow fields, and particle systems
 - **canvas-design** - Design beautiful visual art in .png and .pdf formats using design philosophies
+- **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** - MCP server that generates production-ready visual assets (app icons, favicons, OG images) across 30+ image generation models
 - **slack-gif-creator** - Create animated GIFs optimized for Slack's size constraints
 
 ## Development & Technical
@@ -41,6 +42,7 @@ This repository includes a diverse collection of example skills demonstrating di
 - **brand-guidelines** - Apply Anthropic's official brand colors and typography to artifacts
 - **internal-comms** - Write internal communications like status reports, newsletters, and FAQs
 - **theme-factory** - Style artifacts with 10 pre-set professional themes or generate custom themes on-the-fly
+- **[unslop](https://github.com/MohamedAbdallah-14/unslop)** - Strip AI writing patterns (sycophancy, stock vocab, hedging) from Claude output before publishing
 
 ## Meta Skills
 - **skill-creator** - Guide for creating effective skills that extend Claude's capabilities
