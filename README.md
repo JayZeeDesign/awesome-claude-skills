@@ -34,7 +34,7 @@ This repository includes a diverse collection of example skills demonstrating di
 
 ## Development & Technical
 - **artifacts-builder** - Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui components
-- **mcp-server** - Guide for creating high-quality MCP servers to integrate external APIs and services
+- **[mcp-builder](./mcp-builder/)** - Guide for creating high-quality MCP servers to integrate external APIs and services
 - **webapp-testing** - Test local web applications using Playwright for UI verification and debugging
 
 ## Enterprise & Communication
@@ -111,3 +111,8 @@ The markdown content below contains the instructions, examples, and guidelines t
 Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
 
 - **Notion** - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)
+- **[X Twitter Scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - Agent Skill for X research, monitoring, exports, webhooks, MCP, SDKs, and confirmation-gated actions. Requires Xquik access.
+
+The public X Twitter Scraper Skill is MIT-licensed. The hosted Xquik service is closed source.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
