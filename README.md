@@ -34,6 +34,7 @@ This repository includes a diverse collection of example skills demonstrating di
 
 ## Development & Technical
 - **artifacts-builder** - Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui components
+- **claude-skills-pro** - 15 battle-tested engineering skills for Claude Code (7-dimension code review, root-cause bug hunting, zero-downtime DB migrations, AI code audit); 5 free samples under MIT
 - **mcp-server** - Guide for creating high-quality MCP servers to integrate external APIs and services
 - **webapp-testing** - Test local web applications using Playwright for UI verification and debugging
 
